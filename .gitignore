@@ -55,3 +55,6 @@ Assets/Cards.zip.meta
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Folder sementara Unity
+/.utmp/
