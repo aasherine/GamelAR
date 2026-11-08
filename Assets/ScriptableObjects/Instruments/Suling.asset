@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: Suling
+  m_EditorClassIdentifier: 
+  id: Suling
+  displayName: Suling
+  tagline: Seruling bambu bernada lembut
+  kelompok: Tiup
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 0907e0d9f45fe6c4082b75e1d844a40a, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 6904f4ac9a3579f4bac4ee0f8ba565d0, type: 3}
+  thumbnail: {fileID: 21300000, guid: 6cc389ab93c8efd49a8866f96faeae16, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Memberi warna melodi yang lembut dan menghias lagu dalam gamelan lembut.
+  teknik: "Suling ditiup dari ujung atas yang diberi lilitan sehingga udara terarah ke celah tiup. Tinggi nada diatur dengan membuka dan menutup lubang jari serta mengatur kekuatan tiupan. Suling dimainkan bebas, tidak terikat ketukan, dengan liukan nada yang mengisi sela-sela lagu, terutama pada gendhing lembut."
+  sejarah: "Seruling bambu tergolong alat musik tertua di Nusantara dan sudah tergambar pada relief Candi Borobudur. Dalam gamelan Jawa, suling dibuat terpisah untuk laras slendro (umumnya empat lubang) dan pelog (umumnya lima atau enam lubang)."
+  referenceImageName: Kartu_Suling
+  arSizeMeter: 0.12

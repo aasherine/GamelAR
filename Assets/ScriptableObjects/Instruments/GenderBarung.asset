@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: GenderBarung
+  m_EditorClassIdentifier: 
+  id: GenderBarung
+  displayName: Gender Barung
+  tagline: Penghias melodi bernuansa lembut
+  kelompok: Penghias melodi
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 0c4aeb330205eed45abd79ef08c5dd28, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 43bd9c6ae4800d048beb0f677b989a79, type: 3}
+  thumbnail: {fileID: 21300000, guid: 5199243c34c852a458290ff4298467f6, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Mengiringi dan menghias lagu dengan pola cengkok, terutama pada gamelan
+    bernuansa lembut.
+  teknik: "Dua tabuh berbentuk piringan berbantalan dipegang di kedua tangan. Sambil memukul nada baru, sisi tangan yang sama meredam nada sebelumnya, sehingga setiap tangan memukul dan meredam sekaligus. Tangan kanan dan kiri memainkan dua alur melodi yang berbeda, disebut <b>cengkok</b> atau <b>genderan</b>; karena itu gender termasuk instrumen yang paling sulit dimainkan."
+  sejarah: "Gender dikenal dalam dua ukuran: gender barung dan gender penerus yang bernada satu oktaf lebih tinggi. Gender menjadi instrumen utama pengiring dalang dalam pertunjukan wayang kulit, terutama untuk mengiringi <i>suluk</i> (nyanyian dalang)."
+  referenceImageName: Kartu_GenderBarung
+  arSizeMeter: 0.12

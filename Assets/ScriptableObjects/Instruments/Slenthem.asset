@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: Slenthem
+  m_EditorClassIdentifier: 
+  id: Slenthem
+  displayName: Slenthem
+  tagline: Balungan bernada paling rendah
+  kelompok: Balungan
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: bcabfa923dc96034badb4a22dbe93521, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 5a7201151183aff46a300f8aafbb7c6a, type: 3}
+  thumbnail: {fileID: 21300000, guid: 3dfc77ccc885c7e4897794c428a7a5ad, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Memainkan balungan dengan nada paling rendah dan memberi dasar yang tenang
+    bagi ensambel.
+  teknik: "Dimainkan dengan satu tabuh bertangkai yang ujungnya berupa piringan berbalut kain, dipegang tangan kanan; tangan kiri meredam bilah sebelumnya. Slenthem biasanya memainkan balungan dengan pukulan tenang atau <b>nibani</b> (lebih jarang), sehingga dengung panjangnya terdengar jelas di lapisan nada paling bawah."
+  sejarah: "Bentuk slenthem serupa gender, yaitu bilah logam yang digantung di atas tabung resonator, tetapi bilahnya lebih lebar dan hanya mencakup satu oktaf. Karena kemiripan itu, slenthem di beberapa tempat juga disebut <i>gender panembung</i>."
+  referenceImageName: Kartu_Slenthem
+  arSizeMeter: 0.12

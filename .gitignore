@@ -1,0 +1,57 @@
+# ---- Unity: folder hasil generate (dibuat ulang otomatis oleh Unity) ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*_BurstDebugInformation_DoNotShip/
+
+# ---- Unity: file IDE & cache ----
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# ---- Hasil build ----
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ---- Paket Vuforia (138 MB, melebihi batas GitHub 100 MB) ----
+# Unduh sendiri dari developer.vuforia.com lalu taruh di folder Packages/ (lihat README).
+Packages/*.tgz
+
+# ---- File lokal / sementara proyek ini ----
+/QCAR/
+gamelar-log.txt
+Assets/Cards.zip
+Assets/Cards.zip.meta
+
+# ---- Sistem operasi ----
+.DS_Store
+Thumbs.db
+desktop.ini

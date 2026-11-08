@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: Gambang
+  m_EditorClassIdentifier: 
+  id: Gambang
+  displayName: Gambang
+  tagline: Bilah kayu penghias melodi
+  kelompok: Penghias melodi
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 2bfcd671fb14bac4b9f3642f387c7e7f, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: fd35c22863cd99f408f41e9fc974324b, type: 3}
+  thumbnail: {fileID: 21300000, guid: 11aaeb082df523148a9517f27527cf45, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Memainkan pola melodi yang mengalir, sering dalam gembyang (oktaf), untuk
+    memperkaya lagu.
+  teknik: "Dua tabuh panjang dan lentur, biasanya dari tanduk, dengan ujung bulat berbantalan dipegang di kedua tangan. Kedua tangan umumnya memukul nada yang sama berjarak satu oktaf (<b>gembyangan</b>) dengan tempo cepat dan mengalir, mengisi sela-sela balungan dengan rangkaian nada yang rapat."
+  sejarah: "Gambang adalah satu-satunya instrumen bilah kayu dalam gamelan ageng Jawa. Bilahnya, sekitar 18-23 buah, dibuat dari kayu keras dan diletakkan di atas kotak kayu yang berfungsi sebagai resonator. Alat musik bilah kayu sejenis gambang dikenal luas di Asia Tenggara, dan di Jakarta menjadi bagian ansambel Betawi <i>gambang kromong</i>."
+  referenceImageName: Kartu_Gambang
+  arSizeMeter: 0.12

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Kartu_Suling" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Slenthem" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Siter" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_SaronBarung" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Rebab" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Kethuk" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Kenong" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Kendhang" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Kempul" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_GongAgeng" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_GenderBarung" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Gambang" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_Demung" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_BonangPenerus" size="0.105000 0.148000" />
+    <ImageTarget name="Kartu_BonangBarung" size="0.105000 0.148000" />
+  </Tracking>
+</QCARConfig>

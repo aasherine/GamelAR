@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: Kenong
+  m_EditorClassIdentifier: 
+  id: Kenong
+  displayName: Kenong
+  tagline: Pembagi frase lagu
+  kelompok: Struktural
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 6345755817bbab648a7acd9da3313699, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 514dee184c4d81349a63ecc8638cf1e4, type: 3}
+  thumbnail: {fileID: 21300000, guid: a112ce8aa1cc8384eb02483efc9e232e, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Menandai pembagian frase lagu dengan nada yang jelas dan berukuran sedang.
+  teknik: "Dipukul dengan tabuh berlilit tali pada pencu lalu dibiarkan berdengung. Kenong menandai pembagian gongan menjadi beberapa bagian yang disebut <b>kenongan</b>; misalnya pada ladrang, satu gongan dibagi menjadi empat kenongan. Penabuh memilih pencon kenong yang nadanya sesuai alur lagu."
+  sejarah: "Nama kenong diduga berasal dari bunyinya (<i>nong</i>). Bersama kethuk, kempul, dan gong, kenong termasuk instrumen <b>kolotomik</b>, yaitu penanda struktur yang memberi bentuk pada gendhing Jawa. Kenong diletakkan mendatar di atas tali yang direntangkan pada rancakan kayu."
+  referenceImageName: Kartu_Kenong
+  arSizeMeter: 0.12

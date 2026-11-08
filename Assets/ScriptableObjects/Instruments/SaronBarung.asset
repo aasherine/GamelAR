@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: SaronBarung
+  m_EditorClassIdentifier: 
+  id: SaronBarung
+  displayName: Saron Barung
+  tagline: Balungan satu oktaf di atas demung
+  kelompok: Balungan
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 8b2bbd6fde36d7a44a0a6d8a5515aed6, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 045fd926e7ef844409ae40f3773a1dc2, type: 3}
+  thumbnail: {fileID: 21300000, guid: 3e53d9d41d304cd489cc1afa1542e3eb, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Memainkan balungan dengan nada satu oktaf di atas demung dan memberi ketukan
+    melodi yang jelas.
+  teknik: "Dipukul dengan tabuh kayu berbentuk palu di tangan kanan, sementara tangan kiri <b>methet</b> (meredam bilah sebelumnya). Saron barung memainkan balungan secara <b>mlaku</b> atau <b>nibani</b>; pada gendhing tertentu dua saron bermain <b>imbal</b> sehingga terdengar seperti satu melodi yang lebih rapat. Bilahnya diletakkan di atas rancakan kayu berongga yang menjadi ruang resonansi."
+  sejarah: "Saron merupakan salah satu instrumen pokok gamelan Jawa; instrumen bilah logam sejenis juga dikenal dalam gamelan Bali dengan nama <i>gangsa</i>. Dalam gamelan ageng biasanya terdapat dua saron barung atau lebih untuk tiap laras, bersama <b>saron penerus</b> (peking) yang bernada satu oktaf lebih tinggi."
+  referenceImageName: Kartu_SaronBarung
+  arSizeMeter: 0.12

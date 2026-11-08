@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: GamelarImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4920151845153493536
+  m_GuidHigh: 10234007273258812813
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4685476948254264737
+      m_GuidHigh: 3717981085211898784
+    m_SerializedTextureGuid:
+      m_GuidLow: 7810433298476070763
+      m_GuidHigh: 197839164790826376
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_BonangBarung
+    m_Texture: {fileID: 2800000, guid: 198c776b3bb46c6488650414acddbe02, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5559877501752188516
+      m_GuidHigh: 86788850855624605
+    m_SerializedTextureGuid:
+      m_GuidLow: 2649445498047876153
+      m_GuidHigh: 3764982411641837225
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_BonangPenerus
+    m_Texture: {fileID: 2800000, guid: a2e6cc39b8a424c4a956813f8ee73f34, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5727593511510754002
+      m_GuidHigh: 11870433206713786269
+    m_SerializedTextureGuid:
+      m_GuidLow: 1685555004196099209
+      m_GuidHigh: 14320740393702035306
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Demung
+    m_Texture: {fileID: 2800000, guid: 8a7d94894b5817646a8f3277837dbdc6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5303383191052863734
+      m_GuidHigh: 4727095128371559614
+    m_SerializedTextureGuid:
+      m_GuidLow: 4608320970770391341
+      m_GuidHigh: 18315353553657705371
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Gambang
+    m_Texture: {fileID: 2800000, guid: c9c0a12d0b813ff49bb374a504352dfe, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4797387913522249478
+      m_GuidHigh: 4616300430461063588
+    m_SerializedTextureGuid:
+      m_GuidLow: 15597203639445921514
+      m_GuidHigh: 17054767276937997545
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_GenderBarung
+    m_Texture: {fileID: 2800000, guid: 929a9eea6612d874e96cd8747ab4aeec, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5298026755166164539
+      m_GuidHigh: 10951222314355029170
+    m_SerializedTextureGuid:
+      m_GuidLow: 9733420658304256244
+      m_GuidHigh: 16600805114922578537
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_GongAgeng
+    m_Texture: {fileID: 2800000, guid: d3ac88f40e84871469b272144ce861e6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5007993534664820811
+      m_GuidHigh: 5907626259007166640
+    m_SerializedTextureGuid:
+      m_GuidLow: 3397043381478239691
+      m_GuidHigh: 286087709471080938
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Kempul
+    m_Texture: {fileID: 2800000, guid: 079a2dcbb8f52f24ea01a1894163f803, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5306617190359083513
+      m_GuidHigh: 12700074406562745473
+    m_SerializedTextureGuid:
+      m_GuidLow: 17853551874602126358
+      m_GuidHigh: 15860129627099839242
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Kendhang
+    m_Texture: {fileID: 2800000, guid: 78ab4c168ed6f7c40a3bef82dd7f1adc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5509714277616015415
+      m_GuidHigh: 4462253183778867346
+    m_SerializedTextureGuid:
+      m_GuidLow: 13575241662636444998
+      m_GuidHigh: 680872615025260378
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Kenong
+    m_Texture: {fileID: 2800000, guid: 11874d46f25ebc645a37df3309f27209, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5390882911483824332
+      m_GuidHigh: 3057343299215014585
+    m_SerializedTextureGuid:
+      m_GuidLow: 16079065228443205345
+      m_GuidHigh: 17859193511073894905
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Kethuk
+    m_Texture: {fileID: 2800000, guid: 7db13ee150a2df24f9518552e099d8f7, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5161508887279639371
+      m_GuidHigh: 10232111794662458248
+    m_SerializedTextureGuid:
+      m_GuidLow: 7630406185477730587
+      m_GuidHigh: 11443066092985744667
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Rebab
+    m_Texture: {fileID: 2800000, guid: 8157f11ba5ff69e41b7dbbcdfbefcd9e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5326603036077396625
+      m_GuidHigh: 15174179640188627108
+    m_SerializedTextureGuid:
+      m_GuidLow: 9909306753533051091
+      m_GuidHigh: 14760488095601357146
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_SaronBarung
+    m_Texture: {fileID: 2800000, guid: 96b780d3edfd89845a71b3f1b7c9d7cc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4728716506722283617
+      m_GuidHigh: 11356020600305864890
+    m_SerializedTextureGuid:
+      m_GuidLow: 10323403349756096320
+      m_GuidHigh: 3313367326222366730
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Siter
+    m_Texture: {fileID: 2800000, guid: 9f4a2f4018a68f440ab8de390772fb2d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4819115766916090171
+      m_GuidHigh: 15490178994934637721
+    m_SerializedTextureGuid:
+      m_GuidLow: 11057654269338672940
+      m_GuidHigh: 3916036844952782633
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Slenthem
+    m_Texture: {fileID: 2800000, guid: d5035f2cadf899742987c02ec38e5836, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5416172385826209674
+      m_GuidHigh: 5559450534653492652
+    m_SerializedTextureGuid:
+      m_GuidLow: 6842160806356518944
+      m_GuidHigh: 4237846996762212699
+    m_Size: {x: 0.105, y: 0.148}
+    m_SpecifySize: 1
+    m_Name: Kartu_Suling
+    m_Texture: {fileID: 2800000, guid: 86fb08203d005ef45bb977f663dbcf3a, type: 3}

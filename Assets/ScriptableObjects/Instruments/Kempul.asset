@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: Kempul
+  m_EditorClassIdentifier: 
+  id: Kempul
+  displayName: Kempul
+  tagline: Penanda frase di dalam gongan
+  kelompok: Struktural
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 61458abfadab08f4a8a6589951bbb7f8, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 77c81997e1b6c4944b1f1a39f55e7e32, type: 3}
+  thumbnail: {fileID: 21300000, guid: 6b4cad42c8a5f2440b32bcee12b198b1, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Menandai bagian-bagian di dalam satu gongan dan memberi tekanan pada frase
+    lagu.
+  teknik: "Ditabuh dengan tabuh berbantalan pada pencu dan dibiarkan berdengung. Kempul terutama dipakai pada bentuk lagu yang lebih pendek seperti lancaran, ketawang, dan ladrang. Nada kempul yang dipukul dipilih penabuh agar selaras dengan nada balungan pada saat itu."
+  sejarah: "Kempul termasuk keluarga gong gantung. Satu perangkat gamelan biasanya memiliki beberapa kempul dengan nada berbeda yang digantung berderet pada <b>gayor</b> (rangka gantungan) bersama gong ageng dan gong suwukan."
+  referenceImageName: Kartu_Kempul
+  arSizeMeter: 0.12

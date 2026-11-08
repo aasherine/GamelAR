@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: BonangBarung
+  m_EditorClassIdentifier: 
+  id: BonangBarung
+  displayName: Bonang Barung
+  tagline: Penuntun melodi utama gamelan
+  kelompok: Pencon
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 5695dcdf8d838e44a8e7222bc10b9b53, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 32711b03d8d70384a8dccbe000cc7c57, type: 3}
+  thumbnail: {fileID: 21300000, guid: c3405ca498065e44db58adb21dda8b29, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: "Memimpin jalannya lagu pada gendhing <b>soran</b> (bergaya keras) dan memainkan <b>buka</b> (lagu pembuka) pada gendhing bonang. Pada gendhing lain, bonang barung menghias dan mendahului balungan."
+  teknik: "Dimainkan dengan dua tabuh kayu yang dililit tali, satu di tiap tangan, dipukulkan ke <b>pencu</b> (tonjolan di tengah pencon). Teknik utamanya <b>mipil</b> (memukul nada bergantian, mendahului nada balungan), <b>gembyang</b> (memukul dua nada berjarak satu oktaf bersamaan), dan <b>imbal</b> (saling mengisi dengan bonang penerus). Pada gendhing bonang, penabuh bonang barung juga memainkan <b>buka</b> (lagu pembuka)."
+  sejarah: "Instrumen pencon berderet seperti bonang diperkirakan sudah dipakai di Jawa sejak akhir masa Hindu-Buddha dan terus berkembang pada masa Islam. Menurut cerita tutur, nama bonang kerap dikaitkan dengan Sunan Bonang, salah satu Wali Sanga yang memakai gamelan sebagai sarana dakwah. Kini bonang barung menjadi bagian tetap gamelan ageng, termasuk di keraton Surakarta dan Yogyakarta."
+  referenceImageName: Kartu_BonangBarung
+  arSizeMeter: 0.12

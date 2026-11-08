@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: Siter
+  m_EditorClassIdentifier: 
+  id: Siter
+  displayName: Siter
+  tagline: Kecapi petik berdawai banyak
+  kelompok: Petik
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 1032e72d7def80945a91349dd10a387b, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: c7baa54fcf757df43b58473fb695f9c0, type: 3}
+  thumbnail: {fileID: 21300000, guid: af4baa45669f2ce429a9e01f70c3f6bd, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Memberi iringan lembut dan hiasan melodi yang halus pada gamelan lembut.
+  teknik: "Siter diletakkan di lantai atau di pangkuan pemain. Dawai yang dipasang berpasangan dipetik dengan kuku ibu jari kedua tangan, sementara jari-jari lainnya meredam dawai yang baru dipetik agar nada tidak bertumpuk. Pola permainannya rapat dan mengalir, mengisi sela-sela balungan."
+  sejarah: "Siter termasuk keluarga kecapi (<i>zither</i>) yang dikenal di banyak daerah Nusantara. Dalam gamelan Jawa dikenal siter dan <b>celempung</b>; celempung berukuran lebih besar dan bertumpu pada kaki penyangga. Siter juga dipakai dalam ansambel kecil bernama <i>siteran</i>."
+  referenceImageName: Kartu_Siter
+  arSizeMeter: 0.12

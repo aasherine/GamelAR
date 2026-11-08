@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: BonangPenerus
+  m_EditorClassIdentifier: 
+  id: BonangPenerus
+  displayName: Bonang Penerus
+  tagline: Penghias melodi satu oktaf lebih tinggi
+  kelompok: Pencon
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 377645103f8355f4a91a63a21f4f9533, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 3d525b8773a7d42488b6e652d3c5e3e1, type: 3}
+  thumbnail: {fileID: 21300000, guid: 86b3fcdfdffd6ec4688003002b5d37af, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Mengisi dan menghias melodi dengan pola yang lebih rapat, satu oktaf di
+    atas bonang barung.
+  teknik: "Ditabuh dengan dua tabuh berlilit tali seperti bonang barung, tetapi dengan pukulan dua kali lebih rapat. Teknik utamanya <b>mipil</b> cepat, <b>imbal</b> bersama bonang barung, dan <b>sekaran</b> (variasi hiasan) menjelang akhir gatra. Berbeda dengan bonang barung, bonang penerus tidak memainkan buka."
+  sejarah: "Kata <i>penerus</i> dipakai untuk instrumen yang bernada satu oktaf lebih tinggi daripada pasangannya, seperti gender penerus dan saron penerus. Bonang penerus berkembang sebagai pasangan bonang barung dalam gamelan ageng Jawa; keduanya membentuk jalinan imbal yang menjadi ciri khas permainan bonang."
+  referenceImageName: Kartu_BonangPenerus
+  arSizeMeter: 0.12

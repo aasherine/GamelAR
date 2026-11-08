@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: Kethuk
+  m_EditorClassIdentifier: 
+  id: Kethuk
+  displayName: Kethuk
+  tagline: Penanda ketukan bernada pendek
+  kelompok: Struktural
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: 0431e49f6be738b4b8e6a137aeae75c5, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: 047ed5a58624ad0409417632bf88e9d1, type: 3}
+  thumbnail: {fileID: 21300000, guid: 46c03b44546ba0c498ab0a1d9fdbefda, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Memberi ketukan pendek yang menandai pembagian waktu, sering berpasangan
+    dengan kenong.
+  teknik: "Dipukul dengan tabuh berlilit tali, lalu tabuh ditahan sebentar menempel pada pencu sehingga bunyinya pendek dan tertahan: <i>thuk</i>. Kethuk berbunyi di sela-sela pukulan kenong sebagai penanda ketukan di dalam bagian lagu."
+  sejarah: "Nama kethuk berasal dari bunyinya yang pendek. Kethuk sering dipasangkan dengan <b>kempyang</b>, gong kecil bernada tinggi, dan keduanya diletakkan berdampingan pada satu rancakan. Sebagai instrumen kolotomik, kethuk ikut menentukan nama bentuk gendhing, misalnya <i>kethuk 2 kerep</i> atau <i>kethuk 4 awis</i>."
+  referenceImageName: Kartu_Kethuk
+  arSizeMeter: 0.12

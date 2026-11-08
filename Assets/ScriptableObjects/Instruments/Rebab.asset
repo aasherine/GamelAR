@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49723d5d4f42fa94b8da603cc74d53bc, type: 3}
+  m_Name: Rebab
+  m_EditorClassIdentifier: 
+  id: Rebab
+  displayName: Rebab
+  tagline: Penuntun lagu bersuara merdu
+  kelompok: Gesek
+  laras: 2
+  modelStandar: {fileID: 919132149155446097, guid: c77b3f442dd9c5c4fbec90067bf9b24f, type: 3}
+  modelDetail: {fileID: 919132149155446097, guid: a1f371053cbaad944a3ba857f9490a9f, type: 3}
+  thumbnail: {fileID: 21300000, guid: 36b59840593b15d44a0a2bc369346fe5, type: 3}
+  sampleLoop: {fileID: 0}
+  loopVolume: 1
+  larasPelog: []
+  larasSlendro: []
+  fungsi: Menuntun lagu pada gamelan lembut dengan melantunkan melodi pembuka yang
+    kemudian diikuti instrumen lain.
+  teknik: "Rebab dimainkan sambil duduk bersila dengan badan rebab ditegakkan di depan pemain. Busur (<b>kosok</b>) digesekkan pada dua dawai, sementara jari tangan kiri menekan dawai tanpa menempel ke leher (tidak ada papan nada), sehingga nada bisa digeser dan dihias dengan luwes. Pada gendhing rebab, pemain rebab memainkan <b>buka</b> yang menjadi aba-aba awal lagu."
+  sejarah: "Kata rebab berasal dari bahasa Arab <i>rabab</i>. Alat gesek ini diperkirakan masuk ke Nusantara bersama para pedagang dari Timur Tengah sekitar masa penyebaran Islam, lalu berkembang menjadi rebab Jawa dengan badan (<i>bathokan</i>) dari tempurung atau kayu yang dilapisi kulit tipis. Dalam karawitan Jawa, rebab dikenal sebagai <b>pamurba lagu</b>, pemimpin alur melodi."
+  referenceImageName: Kartu_Rebab
+  arSizeMeter: 0.12
